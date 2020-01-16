@@ -1,7 +1,7 @@
-# React Redux Element
+# Contador React Redux Element
 
 ## Release v1.0.0
-- App criado para demostrar técnicas do Redux.
+- App criado para demostrar técnicas do Redux usando um contador.
 
 ### Dicas para rodar
 - Instale todas as dependencias do Node
